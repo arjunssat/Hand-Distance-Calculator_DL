@@ -1,2 +1,2 @@
-# Hand-Distance-Calculator_DL
-The model detects th distance of the hand from source and calculate its distance.
+# Vehicle Detection and count_DL
+The model detects the count of vehicle passing through the road and it analyses the traffic in that area based on it.
