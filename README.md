@@ -7,3 +7,5 @@
   <li>The cascade classifier is then used to detect muliscale values and the ROI is determined and the rest area is blured.The code then depict the input of a line at a certain height,width of the frame where the detected classifer ROI frame passes through the line a count is noted and the function is inputed in a while loop where each ROI frame is counted till the video time elapses and th total count is measured.</li>
   
 </ul>
+
+<ul><b>Scope</b></ul>
