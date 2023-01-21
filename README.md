@@ -9,4 +9,6 @@
 </ul>
 
 <ul><b>Scope</b></ul>
-<li>The detection counter could be used in areas where the traffic type could be observed,The type of vehicle that passes through at a time could be know and the peak hours traffic could be determined and the corrseponding evalution could be done and monitored to reduce the congestion in areas and divert heavy vehicles as per the peak hours as to avoid huge congestions and delays.</li>
+
+<ul>
+<li>The detection counter could be used in areas where the traffic type could be observed,The type of vehicle that passes through at a time could be know and the peak hours traffic could be determined and the corrseponding evalution could be done and monitored to reduce the congestion in areas and divert heavy vehicles as per the peak hours as to avoid huge congestions and delays.</li></ul>
